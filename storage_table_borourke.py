@@ -129,7 +129,7 @@ time.sleep(1)
 ###
 # Use the Azure Storage Storage SDK for Python to query for entities in our Table
 ###
-print('With some data in our Azure Storage Table, we can query the data.\nLet\'s see what the cars menu looks like.')
+print('With some data in our Azure Storage Table, we can query the data.\nLet\'s see what the cars inventory looks like.')
 raw_input('Press Enter to continue...')
 
 # In this query, you define the partition key to search within, and then which properties to retrieve
